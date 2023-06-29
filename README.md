@@ -1,2 +1,2 @@
 # Data-Analytics-Project
-I developed this portfolio using Python  and different Python Libraries like Numy,Pandas,Matplotlib,Seaborn etc.. using Jupyter Notebook.
+Showcases the analytics process, from finding data sources to cleaning and processing data using different Python libraries like Numpy, Pandas, Matplotlib, Seaborn, Scikitlearn etc.
